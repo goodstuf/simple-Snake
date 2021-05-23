@@ -1,5 +1,5 @@
 A snake game. not much there is to it.
-I made it to better understand python and learn a few modules.
+I made it to better understand python 3.8.x and learn a few modules.
 
 Modules I used were;
 keyboard and pynput to check for key presses.
